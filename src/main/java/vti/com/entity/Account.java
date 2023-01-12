@@ -9,6 +9,7 @@ import java.io.Serializable;
 @Entity
 @Table(name = "`Account`")
 public class Account implements Serializable {
+    //s
     private static final long serialVersionUID = 1L;
 
     @Column(name = "id")
